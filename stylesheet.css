@@ -1,0 +1,146 @@
+
+p {
+
+	font-family: "Helvetica Neue", "Helvetica Neue Light", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 14px;
+	margin: 8px;
+	padding: 0px;
+	color: black;
+	
+}
+
+a {
+
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: "Helvetica Neue", "Helvetica Neue Light", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 14px;
+	padding: 0px;
+	color: black;
+	
+}
+
+a:hover	{
+
+ 	color: gray;
+	
+}	
+
+body {
+
+    background-color: white;
+    
+}
+
+#face {
+	
+	width: 240px;
+	margin: 50px auto 0 auto;
+
+}
+
+#linkbox {
+
+	width: 315px;
+	margin: 0px auto 0 auto;
+
+}
+
+#github {
+	
+	margin-right: 12px;
+
+}
+
+#github:hover {
+	
+	color: rgb(0, 180, 90);
+
+}
+
+#projects {
+
+	margin-right: 12px;
+
+}
+
+#projects:hover {
+
+	color: DodgerBlue;
+	margin-right: 12px;
+
+}
+
+#linkedin {
+
+	margin-right: 12px;
+
+}
+
+#linkedin:hover {
+
+	color: gold;
+	margin-right: 12px;
+
+}
+
+#about:hover {
+
+	color: tomato;
+	
+}
+
+
+#email {
+
+	text-align: center;
+ 	margin-left: -4px;
+	
+}
+
+#email:hover	{
+
+	text-decoration: underline; 
+	
+}
+
+#aboutmebox {
+
+	width: 500px;
+	margin: 100px auto 0 auto;
+	text-align: left;
+
+}
+
+#appbox {
+
+	width: 350px;
+	margin: 100px auto 0 auto;
+
+}
+
+.center {
+
+	text-align: center;
+
+}
+
+
+.app {
+
+	width: 350px;
+	text-align: center;
+	margin: 48px auto 48px auto;
+
+}
+
+.appicon {
+
+	height: 120px;
+	width: 120px;
+	border-radius: 21.05px;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.3), inset 0 0 2px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+	margin: 0px auto 0 auto;
+
+}
