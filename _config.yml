@@ -16,12 +16,12 @@
 title: Kevin Johnson
 email: kevinjohnsonutx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  iOS Developer in New York City. Writing about anything and everything.
+  iOS Developer in New York City. Writing about anything.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dirtydan499
-github_username:  longhorn499
-linkedin_username: kevin-johnson-nyc
+#github_username:  longhorn499
+#linkedin_username: kevin-johnson-nyc
 
 # Build settings
 markdown: kramdown
