@@ -37,27 +37,27 @@ The guide I followed and will be walking through with my experience is this grea
 
 ### Steps
 
-I started taping the square foot mirrors together along their edges and mounting them to my backing surface (cardboard in my case). I used the leftover cardboard from an Amazon order and duct tape, but as the other [guide](https://www.instructables.com/id/Build-a-simple-solar-still/) mentions a sturdier setup can be achieved with a wood backing. The mirror component's job is concentrating the sunlight onto the clear outer jar which contains the inner bottle with the distillation mixture.
+I started taping the square foot mirrors together along their edges and mounting them to my backing surface (cardboard in my case). I used the leftover cardboard from an Amazon order, but as the other [guide](https://www.instructables.com/id/Build-a-simple-solar-still/) mentions a sturdier setup can be achieved with a wood backing. The mirror component's job is concentrating the sunlight onto the clear outer jar which contains the inner bottle with the distillation mixture.
 
 ![inside](/img/homemade_still_1/still_inside.jpg)
 
-The next step was cutting a circular hole in the outer jar's lid for the opening of the inner bottle. This clear jar acts as a solar heat trap, letting in sunlight and trapping the energy it accumulates (like a mini-greenhouse) in order heat the inner bottle and cause the inner mixture to evaporate upward through the copper tubing ([wiki - distillation](https://en.wikipedia.org/wiki/Distillation)). I cut the hole out using an X-Acto knife which was a little imperfect, there is probably a better way.
+The next step was cutting a circular hole in the outer jar's lid for the opening of the inner bottle. This clear jar acts as a solar heat trap, letting in sunlight and trapping the energy it accumulates (like a mini-greenhouse) in order heat the inner bottle and cause the mixture to evaporate upward through the copper tubing ([wiki - distillation](https://en.wikipedia.org/wiki/Distillation)). I cut the hole out using an X-Acto knife which was a little imperfect, there is probably a better way.
 
 ![jar](/img/homemade_still_1/plastic_jar.jpg)
 
-Next I took the two corks and proceeded to open 3/8" holes through each for the copper coil to go through. I started by using my drill that didn't have a large enough drill bit, but I used to start the hole through the cork. I would then use the copper pipe, twisting it back and forth to widen the hole, then switching back and forth between drill/pipe until I made it through. If you have a 3/8" drill bit or opted for corks with pre-made holes go right ahead and ignore this step.
+Next I took the two corks and proceeded to open 3/8" holes through each for the copper coil to go through. I started by using my drill that didn't have a large enough drill bit, but I used to start the hole through the cork. I would then use the copper pipe, twisting it back and forth to widen the hole, then switch back and forth between drill/pipe until I made it through. If you have a 3/8" drill bit or opted for corks with pre-made holes go right ahead and ignore this step.
 
 ![cork](/img/homemade_still_1/cork.jpg)
 
 ![pipe](/img/homemade_still_1/copper_pipe.jpg)
 
-Here's the copper pipe connected to the collector bottle (where the distilled liquid will end up after the vapor cools and returns to liquid form). In the original guide the author mentions "conditioning" the copper piping if you're going to use this to distill something drinkable. This involves running a mixture of white vinegar and water through the pipe until it's clean. Notice how short the length of copper looks here - this piece was cut to be 16" like in the guide I followed, which is why I'm recommending a length of 24" - 32" as 16" was too short.
+Here's the copper pipe connected to the collector bottle (where the distilled liquid will end up after the vapor cools and returns to liquid form). In the original guide the author mentions "conditioning" the copper piping if you're going to use this to distill something drinkable. This involves running a mixture of white vinegar and water through the pipe. Notice how short the length of copper looks here - this piece was cut to 16" like in the guide I followed, which is why I'm recommending a length of 24" - 32" as 16" was too short.
 
 ![bottle](/img/homemade_still_1/bottle.jpg)
 
 ![outside](/img/homemade_still_1/still_outside.jpg)
 
-Here is the still ready to go out on the fire escape. This picture was taken closer to noon there wasn't much direct sunlight, but at 3PM pointed southwest in January it looked like this baby would be getting plenty of sunlight (We'll see how the actual distilling goes in the next post).
+Here's the still ready to go out on the fire escape. This picture was taken closer to noon when there wasn't much direct sunlight, but at 3PM pointed southwest in January it looked like this baby would be getting plenty of sunlight (We'll see how the actual distilling goes in the next post).
 
 ### Last Words 🌥
  
