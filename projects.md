@@ -7,11 +7,11 @@ title: Projects
 
 ## Go - Play With Friends 🎍
 
-An ancient Chinese board game. This is my only current [active app](https://apps.apple.com/us/app/go-play-with-friends/id1472121646) and it's also [open source](https://github.com/longhorn499/Go-iOS). Inspired by other apps that were built in the open and hoping to learn from future contributors.
+An ancient Chinese board game. This is my only current [active app](https://apps.apple.com/us/app/go-play-with-friends/id1472121646) and it's also [open source](https://github.om/longhorn499/Go-iOS). Inspired by other apps that were built in the open and hoping to learn from future contributors.
 
 ## Paintball BST 🎨🏀
 
-A marketplace project I worked on from 2017-2018. I wrote it about it on my site [here](http://localhost:4000/2018/11/11/sunsetting-iOS-side-project.html), and learned that marketplaces are hard but fun. I was the sole developer and wrote the iOS app and backend code before migrating to Firebase.
+A marketplace project I worked on from 2017-2018. I wrote it about it on my site [here](http://localhost:4000/2018/11/11/sunsetting-iOS-side-project.html). I was the sole developer and wrote the iOS app and backend code before migrating to Firebase.
 
 
 ## Waveman
@@ -27,7 +27,7 @@ All of these projects can be viewed on my GitHub [profile](https://github.com/lo
 
 ## DoomFireSwift 🔥
 
-Recreated the fire effect from this amazing [article](http://fabiensanglard.net/doom_fire_psx/index.html) on iOS using `UIKit` (running at 60 fps 😎)
+Recreated the fire effect from this amazing [article](http://fabiensanglard.net/doom_fire_psx/index.html) on iOS using `UIKit` running at 60 fps 😎.
 
 ## CARAssetsAnalyzer
 
@@ -35,7 +35,7 @@ Analyze your app's assets in an app. With sizing information and visualization f
 
 ## ActivityNavigationItem
 
-Helps display the common iOS design of animating a `UIActivityIndicatorView` for a `UIBarButtonItem` that triggered an async action.
+Handles the common design on iOS of animating `UIActivityIndicatorView` in place of a `UIBarButtonItem` that triggered an async action.
 
 ## UImageAlertPresenter
 
