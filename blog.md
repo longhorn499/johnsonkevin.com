@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Blog
 ---
+
+This is my blog 🤠. I'm looking to write about software, design, energy, movies, and other subjects that interest me.
