@@ -7,7 +7,7 @@ title: Projects
 
 ## Go - Play With Friends 🎍
 
-An ancient Chinese board game. This is my only current [active app](https://apps.apple.com/us/app/go-play-with-friends/id1472121646) and it's also [open source](https://github.om/longhorn499/Go-iOS). Inspired by other apps that were built in the open and hoping to learn from future contributors.
+An ancient Chinese board game. This is my only current [active app](https://apps.apple.com/us/app/go-play-with-friends/id1472121646) and it's also [open source](https://github.com/longhorn499/Go-iOS). Inspired by other apps that were built in the open and hoping to learn from future contributors.
 
 ## Paintball BST 🎨🏀
 
