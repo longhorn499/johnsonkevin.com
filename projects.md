@@ -11,7 +11,7 @@ An ancient Chinese board game. This is my only current [active app](https://apps
 
 ## Paintball BST 🎨🏀
 
-A marketplace project I worked on from 2017-2018. I wrote it about it on my site [here](http://localhost:4000/2018/11/11/sunsetting-iOS-side-project.html). I was the sole developer and wrote the iOS app and backend code before migrating to Firebase.
+A marketplace project I worked on from 2017-2018. I wrote it about it on my site [here](/2018/11/11/sunsetting-iOS-side-project.html). I was the sole developer and wrote the iOS app and backend code before migrating to Firebase.
 
 
 ## Waveman
