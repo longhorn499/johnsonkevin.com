@@ -5,19 +5,21 @@ title: Projects
 
 # Apps
 
+## TODOs ♻️
+
+A daily [TODOs](https://github.com/longhorn499/TODOs) App I made for myself to replace the notebooks I was fillling over the years. It combines weekly planning with custom to-do lists which I was previously writing and crossing out constantly. I took a lot of inspiration from Trello which I think is great and useable in many different contexts.  Not in the App Store, just using myself right now. 
+
 ## Go - Play With Friends 🎍
 
-An ancient Chinese board game. This is my only current [active app](https://apps.apple.com/us/app/go-play-with-friends/id1472121646) and it's also [open source](https://github.com/longhorn499/Go-iOS). Inspired by other apps that were built in the open and hoping to learn from future contributors.
+The ancient Chinese board game. This is my only current App in the [App Store](https://apps.apple.com/us/app/go-play-with-friends/id1472121646) and it's also [open source](https://github.com/longhorn499/Go-iOS). Inspired by other apps that were built in the open and hoping to learn from future contributors.
 
 ## Paintball BST 🎨🏀
 
 A marketplace project I worked on from 2017-2018. I wrote it about it on my site [here](/2018/11/11/sunsetting-iOS-side-project.html). I was the sole developer and wrote the iOS app and backend code before migrating to Firebase.
 
-
 ## Waveman
 
-A sprite game where I drew and made pixel art (shoutout to this [tutorial](https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial)). Written in 2015 in Objective-C, lives [here](https://github.com/longhorn499/Waveman).
-
+A sprite game where I drew and made pixel art (thanks to this [tutorial](https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial) - written by the creator of the famous game Spelunky!). Written in 2015 in Objective-C, lives [here](https://github.com/longhorn499/Waveman).
 
 ![old apps](/img/graveyard.png)
 
@@ -25,9 +27,9 @@ A sprite game where I drew and made pixel art (shoutout to this [tutorial](https
 
 All of these projects can be viewed on my GitHub [profile](https://github.com/longhorn499).
 
-## DoomFireSwift 🔥
+## DoomFireSwift🔥/FizzleFade
 
-Recreated the fire effect from this amazing [article](http://fabiensanglard.net/doom_fire_psx/index.html) on iOS using `UIKit` running at 60 fps 😎.
+Recreated old-school id Software game effects from [Fabien Sanglard's](http://fabiensanglard.net) amazing blog on iOS. Running at 60 fps 😎
 
 ## CARAssetsAnalyzer
 
@@ -35,7 +37,7 @@ Analyze your app's assets in an app. With sizing information and visualization f
 
 ## ActivityNavigationItem
 
-Handles the common design on iOS of animating `UIActivityIndicatorView` in place of a `UIBarButtonItem` that triggered an async action.
+Handles the common design on iOS of animating `UIActivityIndicatorView` in place of a `UIBarButtonItem` that triggered an action.
 
 ## UImageAlertPresenter
 
