@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sunsetting an iOS Side Project
+title: Shutting Down an iOS Side Project
 ---
 
 My project I'm about to shutdown is a marketplace app for paintball players to buy/sell/trade gear. It never attracted a large amount of users by any means (~80 daily active users at the end), but when it felt time to shutdown the idea to pull it from the App Store without warning felt wrong. People could be in the middle of a deal and not have a way to wrap up. Also I wanted to have some closure with a project I'd spent over a year working on. 
@@ -50,7 +50,7 @@ I think there can be a tendency to shirk responsibility when it comes to address
 
 * Cancel GoDaddy auto-renew for website domain, associated email address, and hosting
 
-Clearly this is not how you would shutdown something of a larger scale. I couldn't find any posts about sunsetting a smaller iOS project so here we are.
+Clearly this is not how you would shutdown something of a larger scale. I couldn't find any posts about ending a smaller iOS project so here we are.
 
 ### Shoutout
 
