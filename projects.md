@@ -44,7 +44,7 @@ Analyze your app's assets in an app™️. With sizing information and visualiza
 
 ## ActivityNavigationItem
 
-Handles the common design on iOS of animating a loader in the a navigation bar after tapping a button there. Installable via CocoaPods.
+Handles the common design on iOS of animating a loader a navigation bar after tapping a button. Installable via CocoaPods.
 
 ## ImageAlertPresenter
 
