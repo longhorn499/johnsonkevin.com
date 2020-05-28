@@ -40,11 +40,11 @@ Recreated old-school id Software game effects from [Fabien Sanglard's](http://fa
 
 ## CARAssetsAnalyzer
 
-Analyze your app's assets in an app™️. With sizing information and visualization for what images would look like unconstrained. The goal was to use this to find unused and improperly sized images in a project I was working on.
+Analyze your app's assets in an app. With sizing information and visualization for what images would look like unconstrained. The goal was to use this to find unused and improperly sized images in a project I was working on.
 
 ## ActivityNavigationItem
 
-Handles the common design on iOS of animating a loader a navigation bar after tapping a button. Installable via CocoaPods.
+Animates loading after tapping a navigation item bar button on iOS. Installable via CocoaPods.
 
 ## ImageAlertPresenter
 
