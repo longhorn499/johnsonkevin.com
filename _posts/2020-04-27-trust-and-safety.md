@@ -6,7 +6,7 @@ title: Marketplace Trust and Safety
 
 Trust and safety is the most important aspect of any marketplace with the the least amount of innovation.
 
-If you look at eBay, the classic online marketplace, what monumental inventions (like what [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) did for encryption) have arisen that could be applied to each transaction ensuring they go smoothly without fail. If the item passes  inspection, the seller gets the money and the buyer gets the item promptly. If the item does not pass inspection, the transaction can't take place. 
+If you look at eBay, the classic online marketplace, what monumental inventions (like what [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) did for encryption) have arisen that could be applied to each transaction ensuring they go smoothly without fail? If the item passes  inspection, the seller gets the money and the buyer gets the item promptly. If the item does not pass inspection, the transaction can't take place. 
 
 Looking at eBay and other peer-to-peer marketplaces, they give you an approximation for the experience you'll have with each person by having users leave feedback. This is generally reliable because honest people continue to act honestly and a smaller percentage of dishonest people are filtered out and banned after displaying their bad behavior. The problem is now keeping old/new bad actors out, while validating old/new good actors and adding digital gold stars to their reputations for people to rely on. There are also a few other systems that come into play like PayPal claims, requiring tracking information after purchase, etc. that attempt to shore things up.
 
