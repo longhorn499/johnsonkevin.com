@@ -6,35 +6,30 @@ title: Marketplace Trust and Safety
 
 Trust and safety is the most important aspect of any marketplace with the the least amount of innovation.
 
-If we look at eBay, the classic online marketplace, what monumental (like what [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) has done for encryption) inventions have arisen that could be applied to each transaction to ensure the person on each side gets exactly what they want. Each buyer gets the item they expect, each seller gets the money they expect. 
+If you look at eBay, the classic online marketplace, what monumental inventions (like what [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) did for encryption) have arisen that could be applied to each transaction goes smoothly without fail. If the item passes  inspection, the seller gets the money and the buyer gets the item promptly. If the item does not pass inspection, the transaction can't take place. 
 
-Looking at eBay and other peer to peer marketplaces, they give you an approximation for the experience you'll have by having users leave feedback. This is generally reliable because honest people continue to act honestly and a smaller percentage of dishonest people are filtered out and banned after displaying their bad behavior. You're problem is now keeping old/new bad actors out, while validating old/new good actors and adding digital gold stars to their reputations for people to rely on.
+Looking at eBay and other peer-to-peer marketplaces, they give you an approximation for the experience you'll have with each person by having users leave feedback. This is generally reliable because honest people continue to act honestly and a smaller percentage of dishonest people are filtered out and banned after displaying their bad behavior. The problem is now keeping old/new bad actors out, while validating old/new good actors and adding digital gold stars to their reputations for people to rely on. There are also a few other systems that come into play like PayPal claims, requiring tracking information after purchase, etc. that attempt to shore things up.
 
 ### Three Sided Marketplaces
 
-We don't always think about it, but most transactions we enter into we feel safe about because of a middleman that's assumed to be trustworthy that sits between the two parties. If we take a simplified example of physically depositing money at the bank, why do we feel safe doing that? Why do we trust that the teller is going to put that money into our account and not drop it in their wallet? Because we're trusting that the bank has systems to keep their workers honest, and even if the teller did steal the money, we would require the bank to reimburse us. We require the bank to take on the risk of handling deposits and everything after that.
+We don't always think about it, but most transactions we enter into and feel safe about is because of a middleman that's present. If we take a simplified example of physically depositing money at the bank, why do we feel safe doing that? Why do we trust that the teller is going to put that money into our account and not drop it in their wallet? Because we're trusting that the bank has systems to keep their workers honest, and even if the teller did steal the money, we would require the bank to reimburse us. We require the bank to act as a good middelman.
 
-A peer-to-peer marketplace has a completely different feeling because __we__ are the ones taking on the risk. If I purchase a painting, I need to know I'm going to get that exact painting in a reasonable amount of time. Internet marketplaces like StockX, Goat, etc. that address the clothing market try to take that risky feeling out by acting as a middleman. Adding a middleman to a transaction is not a fullproof solution though! You're taking the trust that buyers/sellers were placing in each other and dumping into another source - but that source still may not to be trustworthy! There are terrible examples where just as much if not more damage was done to the users of a marketplace after the middleman fell apart - [Mt Gox](https://www.investopedia.com/terms/m/mt-gox.asp). One might even be able to compare the experience of a dealing with a bad middleman to going to a bad restaurant (questionable analogy - this is more like 2sided). You go in, everything looks and feels like a good restaurant, you know more or less what you're going to receive (but it's not guaranteed), and then you end up with bad service and a terrible meal - something you wouldn't have agree to pay for or lose money to. Even sometimes when we go to a restaurant we love we can have a bad experience that we wouldn't have agree to pay for! This is no different than the eBay seller with 1000+ good reviews who provides the odd bad transaction (item not in condition they said, forgets to ship, goes on vacation without updating store). Each time you have that bad experience you're dealing with the negative side of human behavior that has room to breathe because fo the way these systems are currently designed.
+A peer-to-peer marketplace has a completely different feeling because we are the ones taking on the risk (some places attempt to insure buyers, but usually buyers/sellers are interacting with surprisingly little between them). Internet marketplaces like StockX and Goat that address the clothing market try to take that risky feeling out by acting as a middleman. Adding a human middleman to a transaction is not a fullproof solution though. You're taking the trust that buyers/sellers were placing in each other and moving it into another source that can still act poorly! There are terrible examples where just as much if not more damage was done to the users after the middleman made mistakes ([Mt Gox](https://www.investopedia.com/terms/m/mt-gox.asp) is a good example of this). 
 
-What if there were a way to design transactions in a way that they could only be completed when each side is in agreement? Where even when dealing with a dishonest person, their only option other than no action is to act honestly?
+#### Two Sided
 
-### RSA
+Going back to peer-to-peer marketplaces, let's look at sellers where a feedback system has designated them trustworthy. They have 1000+ good reviews, gold stars, etc. Even though these are likely honest people, the transactions they enter into are still not designed in a way that ensures perfect outcomes. There will still be the odd bad transaction (item not in correct condition, late shipping, seller on vacation). This is similar to a a highly acclaimed restaurant's performance - they're still capable of putting out the odd bad meal!
 
-When describing RSA encryption in [The Code Book](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography-ebook/dp/B004IK8PLE) the author takes the problem that the individuals solved and states it with a simple metaphor (that I will butcher - go read this book if you haven't I can't recommend it enough). He says something along the lines of, would it be possible to design a box, that anyone could lock, but only the owner of the box can unlock.
+### Removing the Human Factor
 
-GO GET THE BOOK!
+"Ride-sharing" companies seem to have decided that they will eliminate bad human behavior through driver automation. Most people view this automation as a way to reduce their labor costs (and it definitely is the #1 reason companies are pursuing self-driving), but there is a positive benefit here in terms of reducing the harm two strangers may to do each other when they're no longer getting in a car together. A woman going home alone late at night won't have to fear for her life when the car picking her up doesn't have a driver. I don't want to imply it's just drivers that are the bad actors here, passengers act terribly every single day (throwing up in cars, distracting the driver, being rude, lying to get ride refunds, etc.) and without the driver present there isn't someone for them to act in opposition to ("it takes two to tango").
 
-Simply stated, can we design a perfect marketplace transaction where a seller only option each time is to send exactly what the buyer will accept, and a seller will get the exact money 
+### Automating Online Marketplaces
 
-### Imaginary Perfect Scenario
+Taking the solution from ride-sharing that I believe they will ultimately implement, how could this in theory be applied to an online marketplace. Perhaps we could imagine a closed warehouse where rows of machines await items from buyers. When they receive an item they could validate that it is authentic (one piece of this puzzle that [some](https://www.entrupy.com/) companies are already working on), rate it's condition, wait until it's purchased, then pack/label/ship the item to the buyer on the other end. This is a pretty large jump from what is currently happening online, but not dissimilar from the jump from human driven cars to driverless.
 
-Two people meet in the desert (think Casino - add image), one buyer and one seller. The seller places a Louis Vuitton bag in a glass case that automatically shuts.
+### Conclusion
 
+I do think automation has the chance to greatly reduce the harm people do to one another and is a benefit usually overshadowed by the negative impact it will have on the labor force. Unless other novel solutions arise, I see automation as the potential solution/middleman that will remove the risk factor and chance for people to behave badly in many marketplaces.
 
-### Blockchain? (lol)
-
-
-### Why is the Stock Market Trustworthy? Why is a gold index trustworthy?
-
-
-### Fakes, Shipping Woes, Systematic Risk
+twitter: [@dirtydan499](https://www.twitter.com/dirtydan499)
