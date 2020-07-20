@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favorite Online Reads
+title: Current Favorite Online Reads
 ---
 
 This is a short list of some of my favorite articles I've ever read online. These are mostly all Long Reads™️ so strap in if you click any of the links.
@@ -37,7 +37,7 @@ I really love this quote from the article: "Like a lot of games in development, 
 
 Rick Owens is a truly unique fashion designer. Born in California and now living in Paris, his namesake brand is one of the largest independent fashion brands in the world. 
 
-I actually don't own any of his clothing, though I've probably read all of his interviews and watched every YouTube that includes him (this one from the [New York Times](https://www.youtube.com/watch?v=EmyKmIaodyQ) at his studio in Paris is great). I love his extreme honesty, DISTINCT (all caps necessary here) point of view, humility, and humor with which he expresses his opinions. Some would call his clothing prohibitively expensive and the designs impractical (knee length shirts, drop-crotch shorts, "monster truck" style shoes). But the clothes are beautiful, dark, and aspirational. Also the store in New York looks more like an architecture museum than retail space.
+I actually don't own any of his clothing, though I've probably read all of his interviews and watched every YouTube video that includes him (this one from the [New York Times](https://www.youtube.com/watch?v=EmyKmIaodyQ) at his studio in Paris is great). I love his extreme honesty, DISTINCT (all caps necessary here) point of view, humility, and humor with which he expresses his opinions. Some would call his clothing prohibitively expensive and the designs impractical (knee length shirts, drop-crotch shorts, "monster truck" style shoes). But the clothes are beautiful, dark, and aspirational. Also the store in New York looks more like an architecture museum than retail space.
 
 The interviews on his website are all amazing. The one I chose to highlight includes these gems:
 
