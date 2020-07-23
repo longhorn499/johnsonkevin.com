@@ -5,7 +5,13 @@ title: One Month Without Meat
 
 Last month was the longest I've gone without eating meat in my adult life. I'd gone days or a week (maybe) without eating meat, but this was the first time I went an entire month.
 
-I've been interested in becoming a vegetarian for some time now for moral, environmental, and health reasons. It is much harder to say "today is the day I stop eating meat for the rest of my life" vs. "for the next 30 days I won't be a meat-eater". I'm not quite ready to commit all the way (thought I will still go plenty of days meat-free), but I know now that it is possible and even something I would not miss terribly. When thinking about quitting meat, or even giving up alcohol, I can't quite get over the social connection that those activities can bring. 
+I've been interested in becoming a vegetarian for some time now for moral, environmental, and health reasons. It is much harder to say "today is the day I stop eating meat for the rest of my life" vs. "for the next 30 days I won't be a meat-eater". I'm not quite ready to commit all the way (thought I will still go plenty of days meat-free), but I know now that it is possible and even something I would not miss terribly. When thinking about quitting meat, or even giving up alcohol, I can't get over the social connection that those activities can bring. 
+
+![bunk](/img/bunk.png)
+
+![mcnulty](/img/mcnulty.png)
+
+> Bunk and McNulty bonding over a (meat-heavy) meal and drinks
 
 During the beginning of the month I noticed after eating meals how much quicker the feeling of being full went away. By the time I was ready to eat the next meal I didn't care what time it was, I was ready to eat right then. This was different than the usual sitting down at "dinner time" and thinking "I am sort of hungry". Also throughout the whole month I never once got that feeling that so many of us get after a meal. You feel that you ate too much, become extremely tired, and your stomach feels like it's going to burst. Even when eating a large vegetarian meal I never once got that uncomfortable full feeling. Anecdotally I feel that this overly full feeling may have something to do with eating meat.
 
