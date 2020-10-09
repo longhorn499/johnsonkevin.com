@@ -22,7 +22,6 @@ This is my only current App in the App Store and it's also open source. Inspired
 
 A marketplace project I worked on from 2017-2018. I wrote it about it on my [website](/2018/11/11/sunsetting-iOS-side-project.html). I was the sole developer and wrote the iOS app and backend code before migrating to Firebase.
 
-
 ## Waveman
 
 A sprite game where I drew and made pixel art (thanks to this [tutorial](https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial) - written by the creator of the famous game Spelunky). Written in 2015 in Objective-C.
@@ -39,7 +38,7 @@ Something I am working on to display Markdown using `UIKit` in an interesting wa
 
 ## DoomFireSwift/FizzleFade
 
-Recreated old-school id Software game effects from [Fabien Sanglard's](http://fabiensanglard.net) amazing blog on iOS.
+Recreated old-school id Software game effects from [Fabien Sanglard's](https://fabiensanglard.net/doom_fire_psx/index.html) amazing blog on iOS.
 
 
 ## CARAssetsAnalyzer
@@ -48,7 +47,7 @@ Analyze your app's assets in an app. With sizing information and visualization f
 
 ## ActivityNavigationItem
 
-Animates loading after tapping a navigation item bar button on iOS. Installable via CocoaPods.
+Animates loading after tapping a navigation item bar button on iOS. Download with CocoaPods.
 
 ## ImageAlertPresenter
 
