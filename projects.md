@@ -10,7 +10,7 @@ title: Projects
 A daily TODOs app I made to replace the notebooks I was filling over the years. It combines weekly planning with custom to-do lists which I was previously writing and crossing out constantly.
 
 [GitHub](https://github.com/longhorn499/TODOs)    
-[TestFlight](https://testflight.apple.com/join/yI66XvVd)
+[App Store](https://apps.apple.com/us/app/daily-todos/id1543653290)
 
 ## Go - Play With Friends
 
