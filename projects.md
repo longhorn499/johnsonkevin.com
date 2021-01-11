@@ -14,7 +14,7 @@ A daily TODOs app I made to replace the notebooks I was filling over the years. 
 
 ## Go - Play With Friends
 
-This is my only current app in the App Store (and it's open source).
+An app for playing Go with a friend next to you.
 
 [GitHub](https://github.com/longhorn499/Go-iOS)    
 [App Store](https://apps.apple.com/us/app/go-play-with-friends/id1472121646)
