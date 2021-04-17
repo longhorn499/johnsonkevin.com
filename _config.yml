@@ -10,13 +10,13 @@
 
 title: Kevin Johnson
 email: kevinjohnsonutx@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Programmer in New York City
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Programmer in New York City
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://johnsonkevin.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  longhorn499
 twitter_username: dirtydan499
-linkedin_username: kevin-johnson-nyc
+linkedin_username: kevin-johnson-
 
 # Build settings
 markdown: kramdown
