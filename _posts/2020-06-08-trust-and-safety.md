@@ -29,5 +29,3 @@ Taking the solution from ride-sharing that I believe they will ultimately implem
 ### Conclusion
 
 I do think automation has the chance to greatly reduce the harm people do to one another and is a benefit usually overshadowed by the negative impact it will have on the labor force. Unless other novel solutions arise, I see automation as the potential solution/middleman that will remove the risk factor and chance for people to behave poorly on marketplaces and in other contexts.
-
-twitter: [@dirtydan499](https://www.twitter.com/dirtydan499)

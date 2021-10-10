@@ -5,6 +5,12 @@ title: Projects
 
 # Apps
 
+## Quit Vices
+
+An app to help you quit things.
+
+[GitHub](https://github.com/longhorn499/Quit-Vices)    
+
 ## TODOs
 
 A daily TODOs app I made to replace the notebooks I was filling over the years. It combines weekly planning with custom to-do lists which I was previously writing and crossing out constantly.
@@ -32,6 +38,10 @@ A sprite game where I drew and made pixel art (thanks to this [tutorial](https:/
 # Misc.
 
 These assorted projects/ideas and more can be found on my [GitHub page](https://github.com/longhorn499).
+
+## nand2tetris-swift
+
+An assembler, vm translator, and compiler written in Swift for the [nand2tetris](https://www.nand2tetris.org/) course.
 
 ## DoomFireSwift/FizzleFade
 

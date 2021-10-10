@@ -58,7 +58,3 @@ Here's the copper pipe connected to the collector bottle (where the distilled li
 ![outside](/img/homemade_still_1/still_outside.jpg)
 
 Here's the still ready to go out on the fire escape. This picture was taken closer to noon when there wasn't much direct sunlight, but at 3PM pointed southwest in January it looked like this baby would be getting plenty of sunlight (We'll see how the actual distilling goes in the next post).
-
-### Last Words 🌥
- 
-Questions, comments, ideas on how to do this better, pics of your own solar still? Tweet me [@dirtydan499](https://twitter.com/dirtydan499) or send me an email.

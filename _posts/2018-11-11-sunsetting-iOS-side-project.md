@@ -55,26 +55,3 @@ Clearly this is not how you would shutdown something of a larger scale. I couldn
 ### Shoutout
 
 Shoutout to [Grailed](https://grailed.com), the idea came from thinking about what if there were a Grailed-like marketplace for paintball players (tailored marketplace for niche audience). 
-
-### After	
-
-TBD. Will fill this in later (if anything noteworthy occurs).
-
-Any comments or have a similar experience? Tweet me [@dirtydan499](https://twitter.com/dirtydan499)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
