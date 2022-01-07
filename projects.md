@@ -9,7 +9,8 @@ title: Projects
 
 An app to help you quit things.
 
-[GitHub](https://github.com/longhorn499/Quit-Vices)    
+[GitHub](https://github.com/longhorn499/Quit-Vices)
+[App Store](https://apps.apple.com/us/app/quit-vices/id1589141908)
 
 ## TODOs
 
