@@ -9,21 +9,21 @@ title: Projects
 
 An app to help you quit things.
 
-[GitHub](https://github.com/longhorn499/Quit-Vices)     
+[GitHub](https://github.com/kevin49999/Quit-Vices)     
 [App Store](https://apps.apple.com/us/app/quit-vices/id1589141908)
 
 ## TODOs
 
 A daily TODOs app I made to replace the notebooks I was filling over the years. It combines weekly planning with custom to-do lists which I was previously writing and crossing out constantly.
 
-[GitHub](https://github.com/longhorn499/TODOs)    
+[GitHub](https://github.com/kevin49999/TODOs)    
 [App Store](https://apps.apple.com/us/app/daily-todos/id1543653290)
 
 ## Go - Play With Friends
 
 An app for playing Go with a friend next to you.
 
-[GitHub](https://github.com/longhorn499/Go-iOS)    
+[GitHub](https://github.com/kevin49999/Go-iOS)    
 [App Store](https://apps.apple.com/us/app/go-play-with-friends/id1472121646)
 
 ## Paintball BST
@@ -34,11 +34,11 @@ A marketplace project I worked on from 2017-2018. I wrote a [blog post](/2018/11
 
 A sprite game where I drew and made pixel art (thanks to this [tutorial](https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial) written by the creator of the famous game Spelunky). Written in 2015 in Objective-C.
 
-[GitHub](https://github.com/longhorn499/Waveman)
+[GitHub](https://github.com/kevin49999/Waveman)
 
 # Misc.
 
-These assorted projects/ideas and more can be found on my [GitHub page](https://github.com/longhorn499).
+These assorted projects/ideas and more can be found on my [GitHub page](https://github.com/kevin49999).
 
 ## nand2tetris-swift
 
