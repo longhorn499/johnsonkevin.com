@@ -52,6 +52,3 @@ I think there can be a tendency to shirk responsibility when it comes to address
 
 Clearly this is not how you would shutdown something of a larger scale. I couldn't find any posts about ending a smaller iOS project so here we are.
 
-### Shoutout
-
-Shoutout to [Grailed](https://grailed.com), the idea came from thinking about what if there were a Grailed-like marketplace for paintball players (tailored marketplace for niche audience). 
