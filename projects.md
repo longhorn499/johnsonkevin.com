@@ -9,7 +9,7 @@ title: Projects
 
 Sharing with just your friends.
 
-[TestFlight](https://testflight.apple.com/join/ldRmAmte)
+[Website](https://wrblr.app)
 
 ## Quit Vices
 
