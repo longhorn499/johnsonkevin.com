@@ -11,13 +11,6 @@ Sharing with just your friends.
 
 [Website](https://wrblr.app)
 
-## Quit Vices
-
-An app to help you quit things.
-
-[GitHub](https://github.com/kevin49999/Quit-Vices)     
-[App Store](https://apps.apple.com/us/app/quit-vices/id1589141908)
-
 ## TODOs
 
 A daily TODOs app I made to replace the notebooks I was filling over the years. It combines weekly planning with custom to-do lists which I was previously writing and crossing out constantly.
