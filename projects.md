@@ -11,11 +11,11 @@ Sharing with just your friends.
 
 [Website](https://wrblr.app)
 
-## TODOs
+## Dailies
 
-A daily TODOs app I made to replace the notebooks I was filling over the years. It combines weekly planning with custom to-do lists which I was previously writing and crossing out constantly.
+A daily planning app I made to replace the notebooks I was filling over the years.
 
-[GitHub](https://github.com/kevin49999/TODOs)    
+[GitHub](https://github.com/kevin49999/Dailies)    
 [App Store](https://apps.apple.com/us/app/daily-todos/id1543653290)
 
 ## Go - Play With Friends
