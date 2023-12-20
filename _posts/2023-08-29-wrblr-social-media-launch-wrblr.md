@@ -17,7 +17,7 @@ Do people use social media because they like it? Why would you make something pe
 
 Maybe it is too derivate. Maybe the only way to approach social media is to think about [growth first](https://twitter.com/nikitabier) (I do enjoy these tweets). When you're a developer making small things it's tempting to think that you're not going to succumb to that software engineer tunnel vision. Forever stuck in the editor.
 
-That marketer who can come up with 50 push notifications to sell chairs a day is just [built different](https://www.goodreads.com/quotes/1394795-you-have-the-right-to-work-but-for-the-work-s). If I think that and a few other things are wrong how would I ever grow something on the internet quickly?
+That marketer who can come up with 50 push notifications to sell chairs a day is just [built different](https://developer.apple.com/design/human-interface-guidelines/managing-notifications#Sending-marketing-notifications). If I think that and a few other things are wrong how would I ever grow something on the internet quickly?
 
 It's not something _entirely_ new, it's just the old thing with the parts you don't like taken out! Maybe this still works, maybe if I keep adding to it while not making it worse it works. But what is working? It's hard not to think that social media is this zero-sum game where you either have the whole network or none.
 
