@@ -25,4 +25,4 @@ Watching Threads "lose" to Twitter (or X) feels silly when you consider the amou
 
 Maybe that's what this is on a smaller scale. A social media app in a small developer package. It's still accessible, isn't overwhelming, and (hopefully) looks good. Maybe it gets one of your friends to share a few photos you would never have gotten to seen without it.
 
-[wrblr.app](https://wrblr.app/)
+~~[wrblr.app](https://wrblr.app/)~~

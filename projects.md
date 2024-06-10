@@ -9,7 +9,7 @@ title: Projects
 
 Sharing with just your friends.
 
-[Website](https://wrblr.app)
+[Blog Post](/2023/08/29/wrblr-social-media-launch-wrblr.html)
 
 ## Dailies
 
