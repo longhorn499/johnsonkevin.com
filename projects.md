@@ -5,6 +5,12 @@ title: Projects
 
 # Apps
 
+## group?
+
+A "personal crm" type app.
+
+[TestFlight](https://testflight.apple.com/join/upYJbsXm)
+
 ## wrblr
 
 Sharing with just your friends.
@@ -15,7 +21,7 @@ Sharing with just your friends.
 
 A daily planning app I made to replace the notebooks I was filling over the years.
 
-[GitHub](https://github.com/kevin49999/Dailies)    
+[GitHub](https://github.com/kevin49999/Dailies)
 [App Store](https://apps.apple.com/us/app/daily-todos/id1543653290)
 
 ## Go - Play With Friends
