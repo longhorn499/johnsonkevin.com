@@ -5,8 +5,8 @@ title: group? app
 
 # group?
 
-A "personal crm" type app.
+Never forget people again.
 
-[TestFlight](https://testflight.apple.com/join/upYJbsXm)
-
+[App Store](https://apps.apple.com/us/app/group/id6737206678)  
+[TestFlight](https://testflight.apple.com/join/upYJbsXm)  
 [Privacy Policy](/group-privacy.html)
