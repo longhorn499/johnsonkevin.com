@@ -18,7 +18,7 @@ A daily planning app I made to replace the notebooks I was filling over the year
 [GitHub](https://github.com/kevin49999/Dailies)  
 [App Store](https://apps.apple.com/us/app/daily-todos/id1543653290)
 
-## Go - Play With Friends
+## Go - Play with Friends
 
 An app for playing Go with a friend next to you.
 
