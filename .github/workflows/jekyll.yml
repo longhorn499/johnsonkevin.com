@@ -27,10 +27,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install Ruby using ruby-builder
-        uses: ruby/ruby-builder@master
+      - name: Setup Ruby
+        uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.6'
+          ruby-version: '2.7
           
       - name: Setup Pages
         id: pages
