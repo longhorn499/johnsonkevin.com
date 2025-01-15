@@ -34,7 +34,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: Set PAGES_REPO_NWO environment variable
-        run: echo "PAGES_REPO_NWO=your-username/your-repo-name" >> $GITHUB_ENV
+        run: echo "PAGES_REPO_NWO=kevin49999/kevin49999.github.io" >> $GITHUB_ENV
           
       - name: Setup Pages
         id: pages
