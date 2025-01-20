@@ -14,4 +14,3 @@ plugins:
 header_pages:
   - blog.md
   - projects.md
-  - group.md
