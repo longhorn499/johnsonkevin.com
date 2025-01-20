@@ -6,6 +6,7 @@ github_username:  kevin49999
 twitter_username: kevin49999
 linkedin_username: kevin499
 repository: kevin49999/kevin49999.github.io
+github: [metadata]
 
 markdown: kramdown
 theme: minima

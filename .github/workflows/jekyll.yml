@@ -23,27 +23,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7'
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-
-      # - name: Set PAGES_REPO_NWO environment variable
-        # run: echo "PAGES_REPO_NWO=kevin49999/kevin49999.github.io" >> $GITHUB_ENV
-          
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         # will use the bundler version from Gemfile.lock
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
